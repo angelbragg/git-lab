@@ -70,3 +70,6 @@ It fails because there are remote updates that I do not have locally and recomme
 The changes were updated
 
 13)
+. .git git-lab-program.cc
+
+.. README.md

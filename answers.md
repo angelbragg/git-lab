@@ -64,3 +64,7 @@ Updated, with all current answers
 Online changes were not updated in the local file "README.md"
 
 11)
+It fails because there are remote updates that I do not have locally and recommends to pull first before pushing updates
+
+12)
+The changes were updated
